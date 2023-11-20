@@ -2,7 +2,9 @@
 
 Welcome to the Radar System project repository! This project combines Python, Arduino, and an ultrasonic sensor to create a radar-like system that detects and displays the presence of objects in its vicinity. The system also generates a heatmap that visualizes the most detected points over the working time. This README file provides an overview of the project and instructions on how to set it up and use it.
 
-![](https://github.com/MAzewail/Radar-System-with-Heatmap/blob/main/Photos/resulting_image_NEW3.png)
+
+![](https://github.com/MAzewail/Radar-System-Python-Arduino/blob/main/Photos/Radar.png)
+
 
 ## Features
 
@@ -12,6 +14,8 @@ Welcome to the Radar System project repository! This project combines Python, Ar
 - Generates a heatmap to visualize the most detected points
 - Adjustable scanning range and rotation speed
 - Supports data logging for further analysis
+
+![](https://github.com/MAzewail/Radar-System-with-Heatmap/blob/main/Photos/resulting_image_NEW3.png)
 
 ## Getting Started
 
